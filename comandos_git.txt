@@ -1,0 +1,7 @@
+Para commits do vscode para o git 
+git add .
+git commit -m "inserir texto da alteração"
+git push origin main
+
+Link da page cadastrado no git 
+https://adriannidesiro.github.io/CatalogoWEB/
